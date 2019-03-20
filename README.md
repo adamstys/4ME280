@@ -5,39 +5,39 @@ VŠE_KME_Weby
 zajímavá data z GA
 
 prokliky na stránce:
-6300 - kino sokol -> program 
-750 - o nás
-620 - prodej vstupenek
-400 - Obecní dům
-300 - Jiné akce
+>6300 - kino sokol -> program 
+>750 - o nás
+>620 - prodej vstupenek
+>400 - Obecní dům
+>300 - Jiné akce
 ..
 
 Hledání
-15 000 - G
-2 800 - Seznam
-1 900 - Město Nymburk
-660 - FB
+>15 000 - G
+>2 800 - Seznam
+>1 900 - Město Nymburk
+>660 - FB
 ...
 
 sekce
-16 000 - Kino
-1 500 - O nás
-860 - OD
-760 - Jiná akce
-560 Foto
+>16 000 - Kino
+>1 500 - O nás
+>860 - OD
+>760 - Jiná akce
+>560 Foto
 ...
 
 oblast návštěv
-14 500 - Nymburk + SČ
-9 250 - Praha
-400 - Hradec K.
-300 - západní morava
+>14 500 - Nymburk + SČ
+>9 250 - Praha
+>400 - Hradec K.
+>300 - západní morava
 ...
 
 zařízení
-12 600 - mobil
-11 800 - desktop
-1 000 - tablet
+>12 600 - mobil
+>11 800 - desktop
+>1 000 - tablet
 - mám podezření na špatně detekovaný zařízení vzhledem k rozlišením na kterých analytika tvrdí, že běží
 
 # Prototyp
